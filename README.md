@@ -8,3 +8,6 @@ Usage:
 
 TODO:
   Add proxies support
+  
+Support:
+  If you want support open card in Issues or write me pm on discord: Nuhnicek#6969
